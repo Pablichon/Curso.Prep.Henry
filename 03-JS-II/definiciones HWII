@@ -1,0 +1,7 @@
+
+definicion de 
+FOR:
+es una herramienta para hacer tareas repetitivas en donde se le fijan parametros de como hacer las operaciones, marcandoles previamente un punto de partida y un punto en donde finalice la operacion
+
+OPERADORES LOGICOS:
+Los operadores logicos son operaciones matematicas pero en vez de operar con numeros , operan con true y false. algunos son &&, ||, ! y su resultado se determinan con la tabla de la veracidad.
