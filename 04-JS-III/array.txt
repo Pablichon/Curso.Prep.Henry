@@ -1,0 +1,4 @@
+definicion de 
+
+ARRAY
+El array es un tipo de datos no nativo que contiene varios tipos de datos en una lista.Puede tener datos numericos, strings, boolenaos como tambien otros arrays. Su sintaxis es el nombre del array seguido por Braquets "[]". Para llamar cada elemento del array se hace invocando el nombre del arrar y sub(numero de orden que ocupa dentro del array) entre los corchetes. es decir "Nombre[x]" siendo x el numero de orden que ocupa dentro de dicho array. este mismo se toma en cuenta el cero como punto de partida para contabilizar el orden.
